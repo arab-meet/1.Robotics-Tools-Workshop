@@ -6,7 +6,8 @@
 ## [A - Introduction to Linux and ubuntu installation](<Introduction to Linux and ubuntu installation/Introduction to Linux and ubuntu installation.md>)
 A guide to Linux, focusing on Ubuntu installation. Learn the basics of Linux operating systems and step-by-step instructions to install Ubuntu, a popular Linux distribution, on your computer.
 
-## [B - Learn Shell Tools and Scripting](<Learn Shell Tools and Scripting/Learn Shell Tools and Scripting.md>)
+## [B - Learn Shell Tools and Scripting](<Learn Shell Tools and Scripting/README.md>)
+
 Discover the essentials of shell tools and scripting, empowering you to navigate the command line efficiently and automate tasks in Linux environments. Master foundational commands, scripting languages like Bash, and key concepts to streamline your workflow and enhance productivity.
 
 
