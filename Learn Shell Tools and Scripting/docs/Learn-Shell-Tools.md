@@ -207,10 +207,10 @@ Refers to interacting with a command-line interface on your computer.
     ```
 
 ## F -  Remove file or directory
-
-  ```bash
-  rm options(s) file_name
-  ```
+ * ### use `rm` to remove file or directory
+    ```bash
+    rm options(s) file_name
+    ```
 - ### Removing one file at a time
   ```bash
   rm file_name
