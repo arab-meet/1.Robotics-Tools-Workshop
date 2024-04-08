@@ -62,7 +62,7 @@
 ---
 
 
-# [Hands-On: Shell Scripting install vscode and terminator](Hands-On:Shell-Scripting-install-vscode-terminator.md)
+# [Hands-On: Shell Scripting install vscode and terminator](./Hands-On:Shell-Scripting-install-vscode-terminator.md)
 # [Hands-On: Bash scripting Read](./Hands-On:Bash-scripting-Read.md)
 
 ## 4-  Understanding the `for` Statement in Bash Scripts
