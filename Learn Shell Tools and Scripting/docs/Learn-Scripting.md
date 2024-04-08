@@ -18,7 +18,7 @@
   ```bash
   touch bash_script.sh
   ```
-- ### Open the newly created file [bash_script.sh](./source/bash_script.sh) and insert the following content:
+- ### Open the newly created file [bash_script.sh](../source/bash_script.sh) and insert the following content:
   ```bash
   #!/bin/bash
   foo=bar
@@ -61,7 +61,7 @@
   ```
 ---
 
-# [Hands-On: Bash scripting Read](Hands-On:Bash-scripting-Read.md)
+# [Hands-On: Bash scripting Read](./Hands-On:Bash-scripting-Read.md)
 
 ## 4-  Run a command a bunch of times:
 
