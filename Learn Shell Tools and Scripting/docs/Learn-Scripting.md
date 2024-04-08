@@ -195,15 +195,15 @@
 
   - `-type` represents the file descriptors. They can be any of the below:
 
-      f – Regular file such as text files, images and hidden files.
+    -  f – Regular file such as text files, images and hidden files.
 
-      d – Directory. These are the folders under consideration.
+    -  d – Directory. These are the folders under consideration.
 
-      l – Symbolic link. Symbolic links point to files and are similar to shortcuts.
+    -  l – Symbolic link. Symbolic links point to files and are similar to shortcuts.
 
-      c – Character devices. Files that are used to access character devices are called character device files. Drivers communicate with character devices by sending and receiving single characters (bytes, octets).  Examples include     keyboards, sound cards and mouse.
+    -  c – Character devices. Files that are used to access character devices are called character device files. Drivers communicate with character devices by sending and receiving single characters (bytes, octets).  Examples include     keyboards, sound cards and mouse.
 
-      b – Block devices. Files that are used to access block devices are called block device files. Drivers communicate with block devices by sending and receiving entire blocks of data. Examples include USB, CD-ROM
+    -  b – Block devices. Files that are used to access block devices are called block device files. Drivers communicate with block devices by sending and receiving entire blocks of data. Examples include USB, CD-ROM
 
   - `-name` is the name of the file type that you want to search.
 ---
@@ -229,45 +229,53 @@
     find . -name '*.tmp' -exec rm {} \;
     ```
 
-# 7 - Finding code
-Finding files by name is useful, but quite often you want to search based on file content. A common scenario is wanting to search for all files that contain some pattern,along with where in those files said pattern occurs. To achieve this, most UNIX-like systems provide `grep`, a generic tool for matching patterns from the input text.
+## 7 - Finding code
+ - #### Finding files by name is useful, but quite often you want to search based on file content.
+ - ####  A common scenario is wanting to search for all files that contain some pattern,along with where in those files said pattern occurs. 
+ - ####  To achieve this, most UNIX-like systems provide `grep`, a generic tool for matching patterns from the input text.
 
-To check if `grep` is installed on your system, type:
-```bash
-rg --version
-```
-The output will look something like this:
-```bash
-ripgrep 11.0.2
--SIMD -AVX (compiled)
-+SIMD +AVX (runtime)
-```
-If you don’t have `grep` installed on your system, you can install it using your distribution’s package manager.
-```bash
-sudo apt  install ripgrep
-```
+### A- To check if `grep` is installed on your system, type:
+
+- ### check version
+  ```bash
+  rg --version
+  # The output will look something like this:
+
+  # ripgrep 11.0.2
+  # -SIMD -AVX (compiled)
+  # +SIMD +AVX (runtime)
+  ```
+
+- ### If you don’t have `grep` installed on your system, you can install it using your distribution’s package manager.
+  ```bash
+  sudo apt  install ripgrep
+  ```
 ---
-### Examples of the Finding code
-- Find all python files where I used the ros library
+### B- Examples of the Finding code
+- ### Find all python files where I used the ros library
   ```bash
   rg -t py 'import ros'
   ```
-- Find all matches of foo and print the following 5 lines
+- ### Find all matches of foo and print the following 5 lines
   ```bash
   rg foo -A 5
   ```
 
-# 8 - Finding shell commands 
-So far we have seen how to find files and code, but as you start spending more time in the shell, you may want to find specific commands you typed at some point. The first thing to know is that typing the up arrow will give you back your last command, and if you keep pressing it you will slowly go through your shell history.
+## 8 - Finding shell commands 
+* ### So far we have seen how to find files and code, but as you start spending more time in the shell, you may want to find specific commands you typed at some point.
+ * ### The first thing to know is that typing the up arrow will give you back your last command, and if you keep pressing it you will slowly go through your shell history.
 
-The `history` command will let you access your shell history programmatically. It will print your shell history to the standard output. If we want to search there we can pipe that output to grep and search for patterns. 
-```bash
-history | grep find 
-```
+* ### The `history` command will let you access your shell history programmatically. It will print your shell history to the standard output. 
 
-will print commands that contain the substring “find”.
+* ### If we want to search there we can pipe that output to grep and search for patterns. 
+  ```bash
+  history | grep find 
+  ```
 
-In most shells, you can make use of `Ctrl+R` to perform backwards search through your history. After pressing `Ctrl+R`, you can type a substring you want to match for commands in your history. 
+* ### will print commands that contain the substring “find”.
+
+* ###  In most shells, you can make use of `Ctrl+R` to perform backwards search through your history. 
+  - #### After pressing `Ctrl+R`, you can type a substring you want to match for commands in your history. 
 
 
 
