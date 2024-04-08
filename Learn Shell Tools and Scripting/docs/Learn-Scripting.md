@@ -1,5 +1,9 @@
 #  Shell Scripting
 
+Author: sherif Fathey
+
+Review: kyrillos Fekry
+
 ## 1- Why Scripting ?
 * ### shells are interactive, which means they accept commands as input from users and execute them. However, sometimes we want to execute a bunch of commands routinely, so we have to type in all commands each time in the terminal
 
