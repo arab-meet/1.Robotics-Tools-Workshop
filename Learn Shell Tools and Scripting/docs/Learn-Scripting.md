@@ -112,12 +112,6 @@
     for f in $(ls); do echo $f; done
     ```
 
-  * ###  To print only directories:
-
-    ```bash
-    for f in $(ls); do if test -d $f; then echo dir $f; fi; done
-    ```
-
 
 
 ## 5-  Understanding the `if` Statement in Bash Scripts
@@ -195,15 +189,15 @@
 
   - `-type` represents the file descriptors. They can be any of the below:
 
-    -  f – Regular file such as text files, images and hidden files.
+    -  `f` : Regular file such as text files, images and hidden files.
 
-    -  d – Directory. These are the folders under consideration.
+    -  `d` : Directory. These are the folders under consideration.
 
-    -  l – Symbolic link. Symbolic links point to files and are similar to shortcuts.
+    -  `l` : Symbolic link. Symbolic links point to files and are similar to shortcuts.
 
-    -  c – Character devices. Files that are used to access character devices are called character device files. Drivers communicate with character devices by sending and receiving single characters (bytes, octets).  Examples include     keyboards, sound cards and mouse.
+    -  `c` : Character devices. Files that are used to access character devices are called character device files. Drivers communicate with character devices by sending and receiving single characters (bytes, octets).  Examples include     keyboards, sound cards and mouse.
 
-    -  b – Block devices. Files that are used to access block devices are called block device files. Drivers communicate with block devices by sending and receiving entire blocks of data. Examples include USB, CD-ROM
+    -  `b` : Block devices. Files that are used to access block devices are called block device files. Drivers communicate with block devices by sending and receiving entire blocks of data. Examples include USB, CD-ROM
 
   - `-name` is the name of the file type that you want to search.
 ---
@@ -248,7 +242,7 @@
 
 - ### If you don’t have `grep` installed on your system, you can install it using your distribution’s package manager.
   ```bash
-  sudo apt  install ripgrep
+  sudo snap install ripgrep --classic
   ```
 ---
 ### B- Examples of the Finding code
