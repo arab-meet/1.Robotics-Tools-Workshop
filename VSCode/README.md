@@ -69,7 +69,7 @@ sudo apt install ./code_1.85.2-1705561292_amd64.deb
 
      ```bash
      ROS_EXTENSION="ms-iot.vscode-ros"
-     URDF_EXTENSION="wholroyd.jinja"
+     URDF_EXTENSION="smilerobotics.urdf"
      CPP_EXTENSION="ms-vscode.cpptools"
      ```
 
