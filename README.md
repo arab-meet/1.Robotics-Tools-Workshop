@@ -13,6 +13,7 @@ Discover the essentials of shell tools and scripting, empowering you to navigate
 
 ## [C - Version Control (GIT)](<Version Control (GIT)/README.md>)
 
+
 Explore version control with GIT, a powerful tool for managing code changes and collaboration. Learn the fundamentals of GIT, including repository management, branching, merging, and resolving conflicts. Enhance your development workflow with version control practices to track changes, collaborate seamlessly, and maintain code integrity across projects.
 
 ## [D - VSCode](<VSCode/README.md>)
