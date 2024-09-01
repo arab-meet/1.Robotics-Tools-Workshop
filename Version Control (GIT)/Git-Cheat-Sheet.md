@@ -60,3 +60,5 @@
 6. **`git stash`**: temporarily remove modifications to working directory
 7. **`git bisect`**: binary search history (e.g. for regressions)
 8. **`gitignore`**: specify intentionally untracked files to ignore
+
+## [↩ Back to main](README.md)

@@ -89,3 +89,5 @@ echo "Installation completed!"
 ```
 
 Ensure you run this script with a user that has sudo privileges to install software. This script demonstrates basic principles of Bash scripting for software installation, including updating package lists, installing from the official repositories, adding third-party repositories, and cleaning up temporary files.
+
+## [↩ Back to main](Learn-Scripting.md)

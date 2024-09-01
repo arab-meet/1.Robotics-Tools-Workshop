@@ -178,5 +178,6 @@ Git’s branching model allows you to work on features, fixes, and experiments i
 
 # [Git Cheat Sheet](Git-Cheat-Sheet.md)
 
+## [Next Topic →](../VSCode/README.md)
 
-## [<-Back to main](../README.md)
+## [↩ Back to main](../README.md)

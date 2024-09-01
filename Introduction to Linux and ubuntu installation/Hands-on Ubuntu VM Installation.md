@@ -1,5 +1,3 @@
-## [<-Back to main](<Introduction to Linux and ubuntu installation.md>)
-
 # Ubuntu VM installation
 Author: Mohamed Elshamy
 
@@ -72,12 +70,13 @@ Author: Mohamed Elshamy
 
 ### 9- After installation is complete enter the passowrd created later and that's it
 
-
-
-## [<-Back to main](<Introduction to Linux and ubuntu installation.md>)
-
-
 # Refrences
 
 #### 1- Install Ubuntu 18.04 virtual machine https://youtu.be/O5Puwym7K5E?feature=shared
+
+
+## [↩ Back to main](<Introduction to Linux and ubuntu installation.md>)
+
+
+
 
