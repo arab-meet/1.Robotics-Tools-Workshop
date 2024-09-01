@@ -74,4 +74,4 @@ The file '/path/to/exercise/file3.txt' contains the keyword 'example'.
 
 You've successfully completed the exercise, learning to use `for` loops, `if` statements, and `grep` in bash scripts to automate file processing tasks.
 
-## [←Back to main](Learn-Scripting.md)
+## [↩ Back to main](Learn-Scripting.md)

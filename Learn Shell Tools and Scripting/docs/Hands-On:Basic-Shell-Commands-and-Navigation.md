@@ -99,4 +99,4 @@ Follow the steps below to complete the exercise:
 ## Conclusion:
 Congratulations! You've successfully completed the hands-on exercise for practicing basic shell commands and navigation. Keep exploring and experimenting with different commands to enhance your proficiency in using the shell.
 
-## [←Back to main](./Learn-Shell-Tools.md)
+## [↩ Back to main](./Learn-Shell-Tools.md)

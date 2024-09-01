@@ -166,5 +166,5 @@ The destripution of Linux that we are going to install is `Ubuntu20.04`
 
 ## [Next Topic →](<../Learn Shell Tools and Scripting/README.md>)
 
-## [←Back to main](../README.md)
+## [↩ Back to main](../README.md)
 

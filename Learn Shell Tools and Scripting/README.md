@@ -25,4 +25,4 @@ By exploring these topics, you will gain a solid understanding of shell tools an
 
 ## [Next Topic →](<../Version Control (GIT)/README.md>)
 
-## [←Back to main](../README.md)
+## [↩ Back to main](../README.md)

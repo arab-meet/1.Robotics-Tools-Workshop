@@ -61,4 +61,4 @@
 7. **`git bisect`**: binary search history (e.g. for regressions)
 8. **`gitignore`**: specify intentionally untracked files to ignore
 
-## [←Back to main](README.md)
+## [↩ Back to main](README.md)

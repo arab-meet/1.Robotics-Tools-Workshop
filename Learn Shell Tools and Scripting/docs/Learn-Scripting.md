@@ -278,5 +278,5 @@ Review: kyrillos Fekry
 
 ## [Next Topic →](<../../Version Control (GIT)/README.md>)
 
-## [←Back to main](../README.md)
+## [↩ Back to main](../README.md)
 

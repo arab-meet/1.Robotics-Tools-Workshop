@@ -321,7 +321,7 @@ Refers to interacting with a command-line interface on your computer.
 
 ## [Next Topic →](Learn-Scripting.md)
 
-## [←Back to main](../README.md)
+## [↩ Back to main](../README.md)
 
   
 

@@ -78,4 +78,4 @@ This changes the script's permissions, allowing it to run as a program.
 - Echoing back the password serves as a demonstration here, but remember it's not a secure practice in real applications.
 - This tutorial introduces basic Bash scripting concepts, including variables, input handling, and output. Explore further to learn about control structures, functions, and more advanced scripting techniques.
 
-## [←Back to main](Learn-Scripting.md)
+## [↩ Back to main](Learn-Scripting.md)

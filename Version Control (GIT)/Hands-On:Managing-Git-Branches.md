@@ -84,4 +84,4 @@ git branch -D branching-test-branch
 
 That's it! You've now gone through the process of managing branches in a Git repository hands-on. Feel free to explore more Git commands and branch management techniques as you continue your journey with Git. If you have any questions or encounter any issues, feel free to ask for further assistance!
 
-## [←Back to main](README.md)
+## [↩ Back to main](README.md)

@@ -66,4 +66,4 @@ The objective of this exercise is to become familiar with basic text editing usi
 - Experiment with different editing features of Nano and gedit, such as copy-pasting, search and replace, and syntax highlighting.
 - Create additional text files using both editors and perform various editing operations on them.
 
-## [←Back to main](./Learn-Shell-Tools.md)
+## [↩ Back to main](./Learn-Shell-Tools.md)

@@ -61,4 +61,4 @@ git push -u origin main
 
 That's it! You've successfully created a new Git repository, added files, staged changes, and made commits. If you have any questions or encounter any issues, feel free to ask for assistance!
 
-## [←Back to main](README.md)
+## [↩ Back to main](README.md)
