@@ -319,8 +319,9 @@ Refers to interacting with a command-line interface on your computer.
 
 # [Hands-On: Text Editing with Nano and gedit](./Hands-On:Text-Editing-with-Nano-and-gedit.md)
 
+## [Next Topic →](Learn-Scripting.md)
 
-## [<-Back to main](../README.md)
+## [↩ Back to main](../README.md)
 
   
 

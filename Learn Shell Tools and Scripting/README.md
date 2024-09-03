@@ -1,6 +1,5 @@
 # Learn Shell Tools and Scripting
 
-
 This document contains all data related to Terminal and scripting.
 
 ## [1 - Learn Shell Tools](./docs/Learn-Shell-Tools.md)
@@ -23,3 +22,7 @@ In this section, you will dive into scripting languages commonly used in Unix-li
 - Scripting examples: Study real-world examples of shell scripts to solve common tasks, automate system administration tasks, and perform complex data processing tasks.
 
 By exploring these topics, you will gain a solid understanding of shell tools and scripting, empowering you to efficiently work with the command line and automate tasks in Unix-like environments.
+
+## [Next Topic →](<../Version Control (GIT)/README.md>)
+
+## [↩ Back to main](../README.md)

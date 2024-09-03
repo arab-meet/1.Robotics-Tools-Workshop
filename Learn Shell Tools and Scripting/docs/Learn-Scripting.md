@@ -276,5 +276,7 @@ Review: kyrillos Fekry
   - #### After pressing `Ctrl+R`, you can type a substring you want to match for commands in your history. 
 
 
+## [Next Topic →](<../../Version Control (GIT)/README.md>)
 
-## [<-Back to main](../README.md)
+## [↩ Back to main](../README.md)
+

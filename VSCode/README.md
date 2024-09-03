@@ -129,4 +129,4 @@ In this [link](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.
 
 > Remember, mastering these shortcuts can significantly speed up your coding workflow!
 
-## [<-Back to main](../README.md)
+## [↩ Back to main](../README.md)
