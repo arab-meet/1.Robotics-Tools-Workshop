@@ -1,7 +1,7 @@
 ## [<-Back to main](<Introduction to Linux and ubuntu installation.md>)
 
 # Ubuntu VM installation
-Author: Mohamed Elshamy
+Author: Mohamed Elshamy <br>
 Maintainer: Abdallah Nomeer
 ## A- VM Downloading:
 > **Note:** Broadcom Completes Acquisition of VMware.
