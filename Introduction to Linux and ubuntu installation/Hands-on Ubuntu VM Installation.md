@@ -1,21 +1,27 @@
+## [<-Back to main](<Introduction to Linux and ubuntu installation.md>)
+
 # Ubuntu VM installation
-Author: Mohamed Elshamy
+Author: Mohamed Elshamy <br>
+Maintainer: Abdallah Nomeer
+## A- VM Downloading:
+> **Note:** Broadcom Completes Acquisition of VMware.
 
-## A- VM installation:
+### 1- Open the [link](https://profile.broadcom.com/web/registration) and register on **BROADCOM** website.
 
-### 1- Open the [link](https://www.vmware.com/products/workstation-player.html) and select *DOWNLOAD FOR FREE*.
+![alt text](images/broadcom_registration.png)
 
-![alt text](images/VMdownload1.png)
+### 2- Go to BROADCOM [support portal](https://support.broadcom.com/group/ecx/downloads) and follow steps.
 
-### 2- Click on *GO TO DOWNLOADS* as shown below.
+![alt text](images/support.broadcom.com.png)
 
-![alt text](images/VMdownload2.png)
+### 3- Choose your operating system with personal use for free edition.
+![alt text](images/support.broadcom.com%20(1).png)
 
-### 3- Click on *DOWNLOAD NOW* for the windows version of the VMware.
+### 4- Click on download icon to start downloading.
 
 ![alt text](images/VMdownload3.png)
 
-### 4- Install VM on your computer
+### 5- Install VM on your computer
 
 ![VMinstall1](images/VMinstall1.png)
 
@@ -68,15 +74,14 @@ Author: Mohamed Elshamy
 
 ![alt text](images/ubuntu_install7.png)
 
-### 9- After installation is complete enter the passowrd created later and that's it
+### 9- After Downloading is complete enter the passowrd created later and that's it
+
+
+
+## [<-Back to main](<Introduction to Linux and ubuntu installation.md>)
+
 
 # Refrences
 
 #### 1- Install Ubuntu 18.04 virtual machine https://youtu.be/O5Puwym7K5E?feature=shared
-
-
-## [↩ Back to main](<Introduction to Linux and ubuntu installation.md>)
-
-
-
 
